@@ -5,5 +5,7 @@ It consists of
 
 > A light-weight wireless tag scanner with a custom PN532 reader module
 
-> A userfriendly website and android application for tracking inventory
+> A user-friendly website and android application for tracking inventory
+
+> An automatated email notification system to remind the user about the return date of the product
 
